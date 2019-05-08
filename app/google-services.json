@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68746675209",
+    "firebase_url": "https://loginfirebase-45364.firebaseio.com",
+    "project_id": "loginfirebase-45364",
+    "storage_bucket": "loginfirebase-45364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68746675209:android:8ed5d52fbcf27e5c",
+        "android_client_info": {
+          "package_name": "aramburo.ariel.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68746675209-b55u98l2m3sf0jqae2fckp63d4puq0lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aramburo.ariel.loginfirebase",
+            "certificate_hash": "cd2f31454eb00cf72f1c20583666a2b6673f4ee9"
+          }
+        },
+        {
+          "client_id": "68746675209-355illng7cov401s6jp24jt9r18jqaid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrSr-xOxLEzgsDH6KRr6nMbn5AkgVH--4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68746675209-355illng7cov401s6jp24jt9r18jqaid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
